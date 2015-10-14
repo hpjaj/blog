@@ -1,27 +1,27 @@
 
 # The name of your website.
-name: Holo Alfa
+name: Harry Levine
 
 description:
 
   # Description of your site. This will show up in google.
-  meta: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
+  meta: Explanations, thoughts, and tips on full stack web application development related topics, in particular Ruby on Rails.
 
   # Description of your site. This will show up on the front page.
-  subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/steinvc/holo-alfa">&lt;/&gt; on Github</a>.
+  subtitle: Explanations, thoughts, and tips on full stack web application development related topics, in particular Ruby on Rails.
 
 author:
-  name: Dr. Jekyll # Change this!
+  name: Harry Levine # Change this!
 
   # Necessary for contact page
-  email: your@email.com # Change this!
+  email: hmlevine@gmail.com # Change this!
 
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.
   info:
 
 url: http://steinvc.github.io
-baseurl: "/holo-alfa"
+baseurl: "/harry-levine"
 
 # language attribute in <html> element.
 lang: en
@@ -49,7 +49,7 @@ theme-color-attr: "#00f0ff"
 ms-tile-color: "#00f0ff"
 
 # Color used throughout the theme. Format: R, G, B.
-theme-color: 0, 240, 255 # Original: 0, 240, 255
+theme-color: 0, 240, 255 # Original: 108, 184, 255
 
 # Text color used throughout the theme. Format: R, G, B.
 text-color: 0, 0, 0 # Original: 0, 0, 0
