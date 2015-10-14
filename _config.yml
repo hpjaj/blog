@@ -21,7 +21,7 @@ author:
   info:
 
 url: http://hpjaj.github.io/
-baseurl: blog/
+baseurl: blog
 
 # language attribute in <html> element.
 lang: en
