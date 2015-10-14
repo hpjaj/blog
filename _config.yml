@@ -20,8 +20,8 @@ author:
   # want it.
   info:
 
-url: http://hpjaj.github.io/blog/
-baseurl:
+url: http://hpjaj.github.io/
+baseurl: blog/
 
 # language attribute in <html> element.
 lang: en
