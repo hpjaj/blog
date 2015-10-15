@@ -1,6 +1,6 @@
 
 # The name of your website.
-name: Harry Levine
+name: Mind on Rails
 
 description:
 
@@ -37,7 +37,7 @@ lang: en
 show-subtitle: true
 display-social-icons: false
 
-footer-text: Jekyll theme crafted by <a href="http://steinvc.github.io/holo-alfa/">Stijn</a>.
+footer-text: Jekyll theme crafted by <a href="http://steinvc.github.io/holo-alfa/" target="_blank">Stijn</a>.
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: # /img/logo.png
