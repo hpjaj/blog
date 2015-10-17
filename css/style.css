@@ -354,7 +354,7 @@ footer .inner {
 .website-title {
   font-family: "Source Sans Pro", Verdana, sans-serif;
   font-weight: 600;
-  font-size: 24px;
+  font-size: 20px;
   text-align: center;
   display: block;
   background-image: none;
@@ -397,7 +397,7 @@ nav a.current {
     font-size: 32px;
   }
   body {
-    font-size: 24px;
+    font-size: 20px;
   }
 }
 @media all and (min-width: 500px) {
@@ -414,7 +414,7 @@ nav a.current {
   pre,
   p,
   form {
-    margin: 40px 0;
+    margin: 20px 0;
   }
   ol, ul {
     padding-left: 50px;
